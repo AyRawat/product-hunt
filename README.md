@@ -1,2 +1,3 @@
-# product-hunt
-A replica of product hunt using Node.js GraphQL and React
+# tee-rex-store
+GFG Front-end problem. Solved using React 
+
